@@ -1,0 +1,26 @@
+body {
+  font-family: 'system-ui', 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+
+.navigation-mynavbar {
+  padding-left: 1em;
+  min-width:100%;
+  max-width:100%;
+}
+
+.navigation-mynavbar-search {
+  min-width: 60vw;
+  max-width: 60vw;
+  float: left;
+}
+
+.navigation-mynavbar-item {
+  margin-top: 1em;
+  margin-left: 68vw;
+}
+
+.ReactTable {
+  margin: 5vh 2vw 0 2vw;
+  min-height: 100%;
+  max-height: 100%;
+}
